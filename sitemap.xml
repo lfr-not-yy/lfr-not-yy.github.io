@@ -1,18 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://lfr-not-yy.github.io/post/blog/</loc>
-    <lastmod>2022-06-27T18:43:02+08:00</lastmod>
-  </url><url>
-    <loc>https://lfr-not-yy.github.io/</loc>
-    <lastmod>2022-06-27T18:43:02+08:00</lastmod>
-  </url><url>
-    <loc>https://lfr-not-yy.github.io/post/</loc>
-    <lastmod>2022-06-27T18:43:02+08:00</lastmod>
-  </url><url>
-    <loc>https://lfr-not-yy.github.io/categories/</loc>
-  </url><url>
-    <loc>https://lfr-not-yy.github.io/tags/</loc>
-  </url>
-</urlset>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://example.org/posts/</loc><lastmod>2022-06-28T14:25:54&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/processofcontribute/</loc><lastmod>2022-06-28T14:25:54&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2022-06-28T14:25:54&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/blog3-%E5%89%AF%E6%9C%AC/</loc><lastmod>2022-06-27T19:04:10&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/blog3/</loc><lastmod>2022-06-27T19:04:10&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/</loc><lastmod>2022-06-27T19:04:10&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/post/blog/</loc><lastmod>2022-06-27T18:43:02&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/</loc></url><url>
+            <loc>http://example.org/tags/</loc></url></urlset>
